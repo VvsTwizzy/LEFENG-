@@ -15,11 +15,11 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY KHAN-MD 🤍*",
 // set the auto reply massage on status reply  
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "-",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KHAN-MD",
+BOT_NAME: process.env.BOT_NAME || "*𝑳𝒆𝒇𝒆𝒏𝒈 😈†",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "KHAN-MD",
+STICKER_NAME: process.env.STICKER_NAME || "☆࿐ཽ༵༆༒ 𝑻𝒘𝒊𝒛𝒛𝒚'🦇 ༒༆࿐ཽ༵☆",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -27,15 +27,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "92342758XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "27630092157",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
+OWNER_NAME: process.env.OWNER_NAME || "*𝑳𝒆𝒇𝒆𝒏𝒈 😈†",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ☆࿐ཽ༵༆༒ 𝑻𝒘𝒊𝒛𝒛𝒚'🦇 ༒༆࿐ཽ༵☆*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *KHAN-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> tf do you want?*Lefeng†*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -43,7 +43,7 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
@@ -65,7 +65,7 @@ DEV: process.env.DEV || "923427582273",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
-ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", 
+ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", 
 // change it to 'same' if you want to resend deleted message in same chat 
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
 // make it true for auto recoding 
